@@ -8,7 +8,17 @@ img{
     display:block;
     height:150;
     width:200;
-    padding:30;
     margin-top:20;
-    margin-bottom: 20;
+    margin-bottom: 10;
+}
+.info{
+    font-family: "arial";
+    margin-top:20;
+    margin-bottom: 10;
+
+}
+footer{
+    margin-top:40;
+    font-style: italic;
+    background-color: yellow;
 }
